@@ -25,3 +25,7 @@ HTTPS Version: ( **We recomend you to setup SSH key** )
 ## Eclipse IDE Users
 
 You will find more information [in this Eclipse IDE guide](https://github.com/yapiko/Yapiko-Style/blob/master/eclipse) to continue.
+
+## IntelliJ IDEA Users
+
+You will find more information [in this IntelliJ IDEA guide](https://github.com/yapiko/Yapiko-Style/blob/master/intellij) to continue.
