@@ -11,3 +11,7 @@ Go `File > Import Settings` and browse to `settings.zip` settings zip file. Done
 ### Lombok installation
 
 Go `IntelliJ IDEA > Preferences...` or press `CMD + ","`. Then, navigate to the `Plugins` tab and search for `Lombok`. That's all! Easy right?
+
+### SonarLint installation
+
+Go `IntelliJ IDEA > Preferences...` or press `CMD + ","`. Then, navigate to the `Plugins` tab and search for `SonarLint`. Then, you will need to set up your `SonarQube`/`SonarCloud` settings at `Tools > SonarLint`.
