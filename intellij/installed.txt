@@ -1,1 +1,2 @@
 Lombook Plugin
+org.sonarlint.idea
