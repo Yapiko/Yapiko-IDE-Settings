@@ -8,7 +8,7 @@ You need to have installed **IntelliJ** on your computer. And *if you want*, **u
 
 Go `File > Import Settings` and browse to `settings.zip` settings zip file. Done!
 
-<img src="https://i.imgur.com/HLAgfkg.png" width="400px">
+<img src="https://i.imgur.com/EkB1Pxa.png" width="400px">
 
 ### Display compilation errors in real-time
 
@@ -23,3 +23,7 @@ Go `IntelliJ IDEA > Preferences...` or press `CMD + ","`. Then, navigate to the 
 ### SonarLint installation
 
 Go `IntelliJ IDEA > Preferences...` or press `CMD + ","`. Then, navigate to the `Plugins` tab and search for `SonarLint`. Then, you will need to set up your `SonarQube`/`SonarCloud` settings at `Tools > SonarLint`.
+
+### Fix possible issues
+
+In case you notice any kind of problem with your IntelliJ IDEA installation, you can try to fix it with `File > Invalidate Caches / Restart...`.
