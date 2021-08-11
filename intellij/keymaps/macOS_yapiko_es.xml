@@ -1,0 +1,10 @@
+<keymap version="1" name="macOS_yapiko_es" parent="Mac OS X 10.5+">
+  <action id="AddToFavoritesPopup" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+</keymap>
